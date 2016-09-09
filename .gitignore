@@ -90,3 +90,7 @@ ENV/
 
 # virtualenv
 flask
+
+# vim
+*.swp
+*.swo
