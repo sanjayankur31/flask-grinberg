@@ -22,3 +22,6 @@ MAIL_PASSWORD = None
 
 # administration list
 ADMINS = ['sanjay.ankur@gmail.com']
+
+# pagination
+POSTS_PER_PAGE = 3
