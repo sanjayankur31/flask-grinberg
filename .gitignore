@@ -94,3 +94,4 @@ flask
 # vim
 *.swp
 *.swo
+tmp
